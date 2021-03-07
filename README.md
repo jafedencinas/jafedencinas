@@ -10,7 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-3E3E42?logo=node.js&style=plastic)
 ![NPM](https://img.shields.io/badge/NPM-3E3E42?logo=npm&style=plastic)
 ![React](https://img.shields.io/badge/React-3E3E42?logo=react&style=plastic)
-![VSCode](https://img.shields.io/badge/VSCode-3E3E42?logo=visualstudio-code&style=plastic)
+![VSCode](https://img.shields.io/badge/VSCode-3E3E42?logo=visual-studio-code&style=plastic)
 ![Webpack](https://img.shields.io/badge/Webpack-3E3E42?logo=webpack&style=plastic)
 ![WordPress](https://img.shields.io/badge/WordPress-3E3E42?logo=wordpress&style=plastic)
 ***
