@@ -18,6 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3E3E42?logo=typescript&style=plastic)
 ***
 #### Contact
+<a href="https://leetcode.com/jafedencinas" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-3E3E42?logo=leetcode&style=plastic"/></a>
 <a href="https://linkedin.com/in/jafedencinas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3E3E42?logo=linkedin&style=plastic"/></a>
 <a href="https://medium.com/@jafedencinas" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-3E3E42?logo=medium&style=plastic"/></a>
 ***
