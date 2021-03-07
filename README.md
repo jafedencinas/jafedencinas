@@ -5,10 +5,12 @@
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-3E3E42?logo=digitalocean&style=plastic)
 ![Express](https://img.shields.io/badge/Express-3E3E42?logo=express&style=plastic)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-3E3E42?logo=google-cloud&style=plastic)
+![Lodash](https://img.shields.io/badge/Lodash-3E3E42?logo=lodash&style=plastic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3E3E42?logo=mongodb&style=plastic)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3E3E42?logo=node.js&style=plastic)
 ![NPM](https://img.shields.io/badge/NPM-3E3E42?logo=npm&style=plastic)
 ![React](https://img.shields.io/badge/React-3E3E42?logo=react&style=plastic)
+![Webpack](https://img.shields.io/badge/Webpack-3E3E42?logo=webpack&style=plastic)
 ![WordPress](https://img.shields.io/badge/WordPress-3E3E42?logo=wordpress&style=plastic)
 ***
 #### Languages
