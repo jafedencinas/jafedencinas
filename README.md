@@ -1,7 +1,7 @@
 #### I'm a software engineer interested in the development of API's and web applications in JavaScript. 
 ***
 #### Technology Stack
-![AWS](https://img.shields.io/badge/AWS-3E3E42?logo=amazon-aws&style=plastic&logoColor=yellow)
+![AWS](https://img.shields.io/badge/AWS-3E3E42?logo=amazon-aws&style=plastic&)
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-3E3E42?logo=digitalocean&style=plastic)
 ![Express](https://img.shields.io/badge/Express-3E3E42?logo=express&style=plastic)
 ![GitHub](https://img.shields.io/badge/Github-3E3E42?logo=github&style=plastic)
