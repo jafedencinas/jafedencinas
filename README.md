@@ -10,6 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/NodeJS-3E3E42?logo=node.js&style=plastic)
 ![NPM](https://img.shields.io/badge/NPM-3E3E42?logo=npm&style=plastic)
 ![React](https://img.shields.io/badge/React-3E3E42?logo=react&style=plastic)
+![VSCode](https://img.shields.io/badge/VSCode-3E3E42?logo=visualstudio-code&style=plastic)
 ![Webpack](https://img.shields.io/badge/Webpack-3E3E42?logo=webpack&style=plastic)
 ![WordPress](https://img.shields.io/badge/WordPress-3E3E42?logo=wordpress&style=plastic)
 ***
@@ -18,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3E3E42?logo=typescript&style=plastic)
 ***
 #### Contact
-<a href="https://leetcode.com/jafedencinas" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-3E3E42?logo=leetcode&style=plastic"/></a>
+<a href="https://leetcode.com/jafedencinas" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-3E3E42?logo=leetcode&style=plastic"/></a>
 <a href="https://linkedin.com/in/jafedencinas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3E3E42?logo=linkedin&style=plastic"/></a>
 <a href="https://medium.com/@jafedencinas" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-3E3E42?logo=medium&style=plastic"/></a>
 ***
