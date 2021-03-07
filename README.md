@@ -6,6 +6,7 @@
 ![Express](https://img.shields.io/badge/Express-3E3E42?logo=express&style=plastic)
 ![GitHub](https://img.shields.io/badge/Github-3E3E42?logo=github&style=plastic)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-3E3E42?logo=google-cloud&style=plastic)
+![GraphQL](https://img.shields.io/badge/GraphQL-3E3E42?logo=graphql&style=plastic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-3E3E42?logo=mongodb&style=plastic)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3E3E42?logo=node.js&style=plastic)
 ![NPM](https://img.shields.io/badge/NPM-3E3E42?logo=npm&style=plastic)
