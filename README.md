@@ -19,6 +19,5 @@
 ***
 #### Contact
 <a href="https://linkedin.com/in/jafedencinas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3E3E42?logo=linkedin&style=plastic"/></a>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3E3E42?logo=linkedin&style=plastic)
-![Medium](https://img.shields.io/badge/Medium-3E3E42?logo=medium&style=plastic)
+<a href="https://medium.com/@jafedencinas" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-3E3E42?logo=medium&style=plastic"/></a>
 ***
