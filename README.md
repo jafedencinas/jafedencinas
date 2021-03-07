@@ -1,7 +1,7 @@
 #### I'm a software engineer interested in the development of API's and web applications in JavaScript. 
 ***
 #### Technology Stack
-![AWS](https://img.shields.io/badge/AWS-3E3E42?logo=amazon-aws&style=plastic&logoColor=yellow&?link=http://jafedencinas.com)
+![AWS](https://img.shields.io/badge/AWS-3E3E42?logo=amazon-aws&style=plastic&logoColor=yellow)
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-3E3E42?logo=digitalocean&style=plastic)
 ![Express](https://img.shields.io/badge/Express-3E3E42?logo=express&style=plastic)
 ![GitHub](https://img.shields.io/badge/Github-3E3E42?logo=github&style=plastic)
@@ -10,6 +10,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-3E3E42?logo=mongodb&style=plastic)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3E3E42?logo=node.js&style=plastic)
 ![NPM](https://img.shields.io/badge/NPM-3E3E42?logo=npm&style=plastic)
+![Postman](https://img.shields.io/badge/Postman-3E3E42?logo=postman&style=plastic)
 ![React](https://img.shields.io/badge/React-3E3E42?logo=react&style=plastic)
 ![VSCode](https://img.shields.io/badge/VSCode-3E3E42?logo=visual-studio-code&style=plastic)
 ![Webpack](https://img.shields.io/badge/Webpack-3E3E42?logo=webpack&style=plastic)
