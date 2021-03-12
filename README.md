@@ -1,4 +1,4 @@
-#### I'm a software engineer interested in the development of API's and web applications in JavaScript. 
+#### I'm a software engineer interested in the development of web applications in JavaScript. 
 ***
 #### Technology Stack
 ![AWS](https://img.shields.io/badge/AWS-3E3E42?logo=amazon-aws&style=plastic&)
